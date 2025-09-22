@@ -1,4 +1,5 @@
 🚗📊 Projeto de Análise de Vendas de Carros com SQL + Power BI
+
 📌 Objetivo
 
 O objetivo deste projeto foi comparar preços médios de veículos por fabricante e analisar a evolução dos valores ao longo dos anos, considerando também fatores como tipo de combustível, motor, quilometragem e modelos mais vendidos.
